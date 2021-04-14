@@ -1,0 +1,11 @@
+# Include the README
+include *.md
+
+# Include the license file
+include LICENSE.txt
+
+# Exclude the test files
+prune tests*
+
+# Exclude the test files
+prune examples*

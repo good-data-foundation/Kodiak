@@ -1,0 +1,7 @@
+*.egg-info
+*.pyc
+.ipynb_checkpoints
+*.pt
+dist
+.idea
+examples/goodDataML/learning/data
